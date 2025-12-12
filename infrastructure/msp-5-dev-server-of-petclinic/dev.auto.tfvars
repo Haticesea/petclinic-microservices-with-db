@@ -1,4 +1,4 @@
-mykey = "clarus"
+mykey = "hatice02"
 ami = "ami-0182f373e66f89c85"
 region = "us-east-1"
 instance_type = "t3a.medium"
